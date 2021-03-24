@@ -1,0 +1,3 @@
+include ':PaxtTollLib'
+include ':app'
+rootProject.name = "PaxLibCreation"
